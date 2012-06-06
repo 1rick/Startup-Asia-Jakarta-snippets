@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleUUID</key>
+	<string>636D99BE-25A6-4EA0-AC92-2694F391831A</string>
+	<key>content</key>
+	<string>Type: Blog Post (Markdown)
+Blog: Penn
+Title: $1
+Keywords: startup-asia-jakarta, startup-arena-jakarta, $2
+Slug: startup-asia-jakarta-$3
+Status: draft
+
+$0
+
+
+
+
+*This is a part of our coverage of [Startup Asia Jakarta 2012], our startup event running on June 8 and 9. For the rest of our Startup Arena pitches, see [here](arena).  You can follow along on Twitter at [@startupasia], on our [Facebook page], on [Google Plus], or via [RSS].* 
+
+[arena]:http:://www.techinasia.com/tag/startup-arena-jakarta
+[Startup Asia Jakarta 2012]:http:://www.techinasia.com/tag/startup-asia-jakarta
+[@startupasia]:http://twitter.com/#!/startupasia
+[Facebook page]:http://facebook.com/techinasia)
+[Google Plus]:https://plus.google.com/106786740407143684135?prsrc=3
+[RSS]:http:://www.techinasia.com/tag/startup-asia-jakarta/feed</string>
+	<key>name</key>
+	<string>headers arena</string>
+	<key>tabTrigger</key>
+	<string>sua</string>
+	<key>uuid</key>
+	<string>30B41055-7244-4FB8-A795-A94A3744976C</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Startup Asia</string>
+	<key>ordering</key>
+	<array>
+		<string>D3F7E2E6-11FC-4C85-B57A-D3BE49628165</string>
+		<string>DEF8FB64-5A90-43FD-BAE3-C64D3C73623E</string>
+		<string>30B41055-7244-4FB8-A795-A94A3744976C</string>
+		<string>9656BCC7-AC0E-486B-BC6A-DFB4DA266EBE</string>
+		<string>2B3AAEA4-07D4-4620-A5AE-DB5BDF1F401F</string>
+	</array>
+	<key>uuid</key>
+	<string>67AF0C40-8507-4920-B77E-B25409408A08</string>
+</dict>
+</plist>

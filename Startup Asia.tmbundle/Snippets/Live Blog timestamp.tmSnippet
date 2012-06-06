@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleUUID</key>
+	<string>636D99BE-25A6-4EA0-AC92-2694F391831A</string>
+	<key>content</key>
+	<string>&lt;a name="$`date +"%H:%M"`"&gt;&lt;/a&gt;&lt;a href="#`date +"%H:%M"`"&gt;#`date +"%H:%M"`&lt;/a&gt;: $0
+ 
+
+</string>
+	<key>name</key>
+	<string>Live Blog timestamp</string>
+	<key>tabTrigger</key>
+	<string>ll</string>
+	<key>uuid</key>
+	<string>D3F7E2E6-11FC-4C85-B57A-D3BE49628165</string>
+</dict>
+</plist>

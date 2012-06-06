@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleUUID</key>
+	<string>636D99BE-25A6-4EA0-AC92-2694F391831A</string>
+	<key>content</key>
+	<string>[Startup Arena Jakarta](http:://www.techinasia.com/tag/startup-arena-jakarta)
+
+</string>
+	<key>name</key>
+	<string>TAG: Startup Arena Jakarta 2012  </string>
+	<key>tabTrigger</key>
+	<string>sua</string>
+	<key>uuid</key>
+	<string>2B3AAEA4-07D4-4620-A5AE-DB5BDF1F401F</string>
+</dict>
+</plist>
