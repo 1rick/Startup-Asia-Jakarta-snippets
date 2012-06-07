@@ -19,11 +19,11 @@ $0
 
 *This is a part of our coverage of [Startup Asia Jakarta 2012], our startup event running on June 8 and 9. You can follow along on Twitter at [@startupasia], on our [Facebook page], on [Google Plus], or via [RSS].* 
 
-[Startup Asia Jakarta 2012]:http:://www.techinasia.com/tag/startup-asia-jakarta
-[@startupasia]:http://twitter.com/#!/startupasia
-[Facebook page]:http://facebook.com/techinasia)
-[Google Plus]:https://plus.google.com/106786740407143684135?prsrc=3
-[RSS]:http:://www.techinasia.com/tag/startup-asia-jakarta/feed</string>
+[Startup Asia Jakarta 2012]: http://www.techinasia.com/tag/startup-asia-jakarta
+[@startupasia]: http://twitter.com/#!/startupasia
+[Facebook page]: http://facebook.com/techinasia
+[Google Plus]: https://plus.google.com/106786740407143684135?prsrc=3
+[RSS]: http://www.techinasia.com/tag/startup-asia-jakarta/feed</string>
 	<key>name</key>
 	<string>headers general</string>
 	<key>tabTrigger</key>
